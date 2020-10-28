@@ -1,0 +1,15 @@
+
+.resume {
+  background-color: #E997A7;
+}
+
+
+.row {
+    display: flex;
+    text-align: center;
+  }
+  
+  .column {
+    flex: 0%;
+    padding: 30px;
+  }
